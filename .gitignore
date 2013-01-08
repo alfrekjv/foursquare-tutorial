@@ -1,0 +1,11 @@
+# PPI directories
+vendor/*
+*/logs/*
+app/cache/*
+.idea/*
+
+# Backup files created by IDEs
+*~
+
+# Mac OS X hidden files
+.DS_Store
